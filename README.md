@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imtiazz
 - 👀 I’m interested in B2B product deveopement
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on interesting project. I am not specific to any domain, just looking for  projects which really solve problem and make people happy. 
+- 💞️ I’m looking to collaborate on interesting project. I am not specific to any domain, just looking for  projects which really solve problem and make user say- Thats what I was looking for.
 
 
 <!---
